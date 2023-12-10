@@ -343,8 +343,8 @@
  :feature/enable-journals? true
  :default-home {}
  :feature/enable-flashcards? true
- :editor/logical-outdenting? false
- :publishing/all-pages-public? false
+ :editor/logical-outdenting? true
+ :publishing/all-pages-public? true
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"

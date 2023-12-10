@@ -343,7 +343,7 @@
  :feature/enable-journals? true
  :default-home {}
  :feature/enable-flashcards? true
- :editor/logical-outdenting? false
+ :editor/logical-outdenting? true
  :publishing/all-pages-public? false
 
  ;; specify the format of the filename for journal files
